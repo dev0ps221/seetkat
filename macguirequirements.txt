@@ -1,0 +1,5 @@
+scapy 
+termcolor 
+pyfiglet
+scapy
+pyqt5
